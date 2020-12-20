@@ -178,9 +178,7 @@ Il peut être plus utile de transformer cette sortie en une prédiction de class
 
 # Conclusion
 
-![alt text](screenshots/Screenshot from 2020-12-18 08-26-47.png)
-
-Nous avons obtenu 78% de précision pour l'arbe de décision et 81% de précision pour le réseau de neurones. On conclue que le problème n'est pas lié à la structure de ces algorithmes mais plutot au Data Preprocessing. Encore plus, il faut optimiser notre processus de l'ingeniérie des attributs (feature engineering) afin d'augmenter la précision de nos données. Un autre raison pour amélioer la performance de nos modèles est d'essayer de trouver des quantités de données supplémentaires. 
+Comme vous voyez dans les screenshots, nous avons obtenu 78% de précision pour l'arbe de décision et 81% de précision pour le réseau de neurones. On conclue que le problème n'est pas lié à la structure de ces algorithmes mais plutot au Data Preprocessing. Encore plus, il faut optimiser notre processus de l'ingeniérie des attributs (feature engineering) afin d'augmenter la précision de nos données. Un autre raison pour amélioer la performance de nos modèles est d'essayer de trouver des quantités de données supplémentaires. 
 
 
 
